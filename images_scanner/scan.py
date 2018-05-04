@@ -95,8 +95,6 @@ def find_contour(edged, perc=0.01):
         find_contour(edged, perc)
 
 
-
-
 if __name__ == '__main__':
     try:
         image = load_image(path)
