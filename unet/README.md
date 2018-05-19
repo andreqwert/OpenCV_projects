@@ -1,6 +1,6 @@
 # U-net
 
-Код не мой, взят здесь: https://github.com/jocicmarko/ultrasound-nerve-segmentation
+Оригинал репозитория: https://github.com/jocicmarko/ultrasound-nerve-segmentation      
 
 ## Запуск
 Для запуска необходимо:      
