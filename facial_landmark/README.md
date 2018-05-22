@@ -12,4 +12,4 @@
 2. `python facial_landmarks.py --shape-predictor shape_predictor_5_face_landmarks.dat`
 
 ## Пример работы    
-![](https://github.com/andreqwert/OpenCV_projects/tree/master/facial_landmark/imgs/ex1.png)
+![example](https://raw.githubusercontent.com/andreqwert/OpenCV_projects/master/facial_landmark/imgs/ex1.png?raw=true)
