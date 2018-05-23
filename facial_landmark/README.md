@@ -13,3 +13,6 @@
 
 ## Пример работы    
 ![example](https://raw.githubusercontent.com/andreqwert/OpenCV_projects/master/facial_landmark/imgs/ex1.png?raw=true)
+
+
+Источник: pyimagesearch
