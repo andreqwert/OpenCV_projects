@@ -4,9 +4,13 @@
 Алгоритм выдает 80% точности при определнии пола и 60% (на глаз) при определнии возраста.      
 
 ## Запуск         
-1. Подгрузить веса в папку `pretrained_models`: https://www.dropbox.com/s/77rg409flcimdos/weights.18-4.06.hdf5.zip?dl=0
+1. Подгрузить веса в папку `pretrained_models`: https://github.com/yu4u/age-gender-estimation/releases/download/v0.5/weights.18-4.06.hdf5
 2. `python2 main.py`      
 Для запуска необходим tensorflow для Python 2.7.
 
 ## Бонус
 Research показал, что хорошие результаты выдаёт также вот этот алгоритм: https://github.com/dpressel/rude-carnie/
+
+## Источник
+https://github.com/yu4u/age-gender-estimation
+
