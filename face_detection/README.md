@@ -6,7 +6,7 @@
 ## Запуск         
 1. Подгрузить веса в папку `pretrained_models`: https://www.dropbox.com/s/77rg409flcimdos/weights.18-4.06.hdf5.zip?dl=0
 2. `python2 main.py`      
-Для запуска необходим tensorflow для Python версии 2.
+Для запуска необходим tensorflow для Python 2.7.
 
 ## Бонус
 Research показал, что хорошие результаты выдаёт также вот этот алгоритм: https://github.com/dpressel/rude-carnie/
