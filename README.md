@@ -1,4 +1,4 @@
-# Наработки по OpenCV
+# Наработки по OpenCV (OpenCV developments)
 
 
 
